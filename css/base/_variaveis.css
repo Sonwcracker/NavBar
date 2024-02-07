@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,700;1,300;1,600&display=swap');
+
+:root{
+    --w-logo: 96px;
+    --h-logo: 96px;
+    --h-nav: 100px;
+    --font-moto-sans: "Noto Sans";
+    --cor-preto: black;
+}

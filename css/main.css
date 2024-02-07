@@ -1,0 +1,5 @@
+/* Importar os arquivos*/
+@import "base/reset.css";
+@import "base/_variaveis.css";
+@import "layout/_nav.css";
+@import "base/_links.css";
